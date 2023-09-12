@@ -1,0 +1,23 @@
+{
+  "button": {
+    "accept": "Aceitar",
+    "acceptSubject": "Aceitar {{subject}}",
+    "next": "Próximo",
+    "next_f": "Próxima",
+    "nextSubject": "Próximo {{subject}}",
+    "nextSubject_female": "Próxima {{subject}}",
+    "previous": "Anterior",
+    "previousSubject": "Anterior {{subject}}",
+    "toEnd": "Finalizar",
+    "toEndSubject": "Finalizar {{subject}}",
+    "back": "Voltar",
+    "backSubject": "Voltar {{subject}}",
+    "reject": "Rejeitar",
+    "rejectSubject": "Rejeitar {{subject}}",
+    "start": "Iniciar",
+    "startSubject": "Iniciar {{subject}}",
+    "backHome": "Voltar para a página inicial",
+    "download": "Baixar",
+    "downloadSubject": "Baixar {{subject}}"
+  }
+}
